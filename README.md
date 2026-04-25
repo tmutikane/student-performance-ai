@@ -93,9 +93,9 @@ I am passionate about building AI systems that improve how people learn. My long
 
 ---
 
-# ⭐ Currently Open To
+## ⭐ Current Research Interests & Availability
 
-- PhD Opportunities in AI / Education / Data Science  
-- Research Collaborations  
-- AI in Education Projects  
-- Academic Supervision (Machine Learning / Learning Analytics)
+- PhD research in Artificial Intelligence in Education  
+- Machine Learning for Learning Analytics and Student Performance Prediction  
+- Educational Data Mining and Adaptive Learning Systems  
+- Open to PhD supervision and research collaboration
